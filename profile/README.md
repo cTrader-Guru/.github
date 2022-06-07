@@ -1,4 +1,4 @@
-## Hi there 👋 https://ctrader-guru.github.io
+## Hi there 👋 https://ctrader-guru
 
 <!--
 
